@@ -1,0 +1,73 @@
+nav{
+    text-align: right;
+    background-color: aliceblue;
+    color: black;
+}
+
+nav a {
+     margin-right: 20px;
+     color: black;
+}
+
+
+body{
+    background-color: black;
+    color: aliceblue;
+}
+
+.imagen-botón {
+    margin-right: 555px;
+
+}
+
+h1,h2,h3  {
+  font-family: "Anton", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.nota-footer {
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  font-size: 14px;
+  margin-bottom: 20px; 
+margin-top: 10%;
+}
+
+h1{
+    font-size: 40px;
+}
+
+h2{
+    font-size: 25px;
+}
+
+p,ul,li{
+    font-family: "Special Elite", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.img-margenes{
+margin-top: 40px;
+  margin-left: 60px;     
+  margin-right: 60px;   
+  text-align: center;  
+
+}
+
+li {
+  margin-top: 30px;
+  margin-bottom: 30px;     
+  text-align: left;        
+
+}
+
+li {
+  margin-bottom: 30px;     
+  text-align: left;        
+  clear: both;             
+}
