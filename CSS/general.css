@@ -16,11 +16,7 @@ body{
 }
 
 .imagen-botón {
-   position: absolute;
-  left: 20px;
-  top: 10px;
-  height: 40px;
-  width: auto;
+ margin-left: 500px;
 
 }
 
