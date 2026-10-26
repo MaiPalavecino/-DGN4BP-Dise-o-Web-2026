@@ -16,10 +16,7 @@ body{
 }
 
 .imagen-botón {
-    margin-right: 500px;
-    width: auto;
-  vertical-align: middle;  /* Alinea la imagen con el texto */
-  display: inline-block;
+    margin-right: 555px;
 justify-content: right;
 
 }
