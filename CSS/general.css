@@ -15,8 +15,9 @@ body{
     color: aliceblue;
 }
 
-.imagen-botón {
- margin-right: 100px;
+.imagen-boton {
+ margin-left: 50px;
+ justify-content: left;
 
 }
 
