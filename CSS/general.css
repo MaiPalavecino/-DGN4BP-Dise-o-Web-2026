@@ -15,6 +15,11 @@ body{
     color: aliceblue;
 }
 
+.flex-separado{
+  display: flex;
+  justify-content: space-between;
+}
+
 .imagen-boton {
  margin-left: 50px;
  justify-content: left;
