@@ -19,6 +19,12 @@ color: aliceblue;
 
 }
 
+.flex-separado{
+  display: flex;
+  justify-content: space-between;
+    align-items: center;
+}
+
 .margen-cero, .margen-grande{
     background-color: rgb(10, 10, 128);
 }
