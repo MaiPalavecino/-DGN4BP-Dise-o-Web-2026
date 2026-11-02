@@ -38,22 +38,22 @@ body{
 .columna-texto {
     float: right;
     width: 58%;
-    padding-top: 130px;
+    padding-top: 110px;
     text-align: center;
 }
 
 .columna-texto h2 {
-    font-size: 46px;
+    font-size: 42px;
     margin-top: 0px;
-    margin-bottom: 25px;
+    margin-bottom: 20px;
     text-align: center;
 }
 
 .sinopsis {
-    font-size: 18px;
-    line-height: 1.6;
+    font-size: 15px;
     color: #ffffff;
-    max-width: 420px;
+   width: 480px;
+   max-width: 100%;
     margin: 0 auto 30px auto;
     text-align: center
 }
@@ -64,12 +64,12 @@ body{
     display: inline-block;
     background: #e5dfd8;
     color: black;
-    padding: 15px 30px;
+    padding: 12px 30px;
     border: 2px solid black;
     border-top: none;
     border-left: none;
     font-weight: bold;
-    font-size: 18px;
+    font-size: 15px;
 }
 
 .boton-trailer:hover {
@@ -93,18 +93,18 @@ body{
 Boton donde ver
 
 .contenedor-donde-ver {
-    margin-top: 25px;
+    margin-top: 20px;
     text-align: center;
 }
 
 .enlace-donde-ver {
     display: inline-block;
     color: #ffffff;
-    font-size: 16px;
+    font-size: 20px;
     font-weight: bold;
     letter-spacing: 1px;
     text-decoration: none;
-    padding-bottom: 4px;
+    padding-bottom: 3px;
    border-bottom: 2px dotted #ffffff;
     }
 
