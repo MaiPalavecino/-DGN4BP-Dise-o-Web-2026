@@ -78,6 +78,33 @@ body{
     border: 3px solid white;
 }
 
+Boton donde ver
+
+.enlace-donde-ver {
+    display: inline-block;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    text-decoration: none;
+    margin-left: 20px;
+    position: relative;
+    }
+
+
+.enlace-donde-ver:hover {
+    color: #cccccc;
+}
+
+.linea-punteada {
+    display: block;
+    width: 100%;
+    margin-top: 6px;
+    border-bottom: 2px dotted #ffffff;
+    }
+
+
+
 
 
 
