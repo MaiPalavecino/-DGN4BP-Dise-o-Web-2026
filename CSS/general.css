@@ -29,20 +29,22 @@ body{
 .bloque-introduccion {
     background-color: rgb(10, 10, 128);
     color: white;
-    padding: 40px;
-    width: 800px;
-    margin: 20px auto;
+    padding: 30px;
+    width: 850px;
+    margin: 40px auto;
     overflow: hidden
     }
 
 .columna-texto {
     float: left;
     width: 60%;
+    padding-top: 20px;
 }
 
 .columna-texto h2 {
-    font-size: 28px;
-    margin-bottom: 30px;
+    font-size: 38px;
+    margin-top: 0px;
+    margin-bottom: 35px;
 }
 
 .boton-trailer {
@@ -50,11 +52,12 @@ body{
     display: inline-block;
     background: #e5dfd8;
     color: black;
-    padding: 20px 40px;
+    padding: 15px 30px;
     border: 2px solid black;
     border-top: none;
     border-left: none;
     font-weight: bold;
+    font-size: 18px;
 }
 
 .boton-trailer:hover {
@@ -64,11 +67,12 @@ body{
 .columna-poster {
     float: right;
     width: 35%;
-    text-align: right;
 }
 
 .columna-poster img {
     max-width: 100%;
+    height: auto;
+    display: block;
     border: 3px solid white;
 }
 
