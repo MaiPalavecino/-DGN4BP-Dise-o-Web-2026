@@ -1,10 +1,12 @@
 nav{
     display: flex;
     align-items: center;
-   justify-content: flex-end;
+   justify-content: flex-start;
     background-color: aliceblue;
     padding: 15px 20px;
     white-space: nowrap;
+    width: 100%;
+    box-sizing: border-box;
 
 }
 
@@ -19,9 +21,6 @@ nav a {
 
 }
 
-nav img {
-    margin-right: auto;
-    }
  
 nav a:hover {
     background-color: rgb(10, 10, 128);
