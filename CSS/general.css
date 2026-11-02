@@ -52,8 +52,8 @@ body{
 .sinopsis {
     font-size: 15px;
     color: #ffffff;
-   width: 480px;
-   max-width: 100%;
+    line-height: 1.5;
+    max-width:405px;
     margin: 0 auto 30px auto;
     text-align: justify;
 
