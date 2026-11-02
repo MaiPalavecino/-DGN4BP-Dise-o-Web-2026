@@ -30,15 +30,15 @@ body{
     background-color: rgb(10, 10, 128);
     color: white;
     padding: 30px;
-    width: 850px;
+    width: 1000px;
     margin: 40px auto;
     overflow: hidden
     }
 
 .columna-texto {
     float: left;
-    width: 60%;
-    padding-top: 20px;
+    width: 55%;
+    padding-top: 30px;
 }
 
 .columna-texto h2 {
@@ -66,7 +66,7 @@ body{
 
 .columna-poster {
     float: right;
-    width: 35%;
+    width: 38%;
 }
 
 .columna-poster img {
