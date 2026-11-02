@@ -37,17 +37,26 @@ body{
 
 .columna-texto {
     float: right;
-    width: 55%;
-    padding-top: 40px;
+    width: 58%;
+    padding-top: 70px;
     text-align: center;
 }
 
 .columna-texto h2 {
-    font-size: 38px;
+    font-size: 46px;
     margin-top: 0px;
-    margin-bottom: 20px;
+    margin-bottom: 25px;
     text-align: center;
 }
+
+.sinopsis-texto {
+    font-size: 18px;
+    line-height: 1.6;
+    color: #ffffff;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
 
 .boton-trailer {
     text-decoration: none;
