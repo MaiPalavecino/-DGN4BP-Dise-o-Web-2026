@@ -65,12 +65,13 @@ body{
     display: inline-block;
     background: #e5dfd8;
     color: black;
-    padding: 12px 30px;
+    padding: 16px 50px;
     border: 2px solid black;
     border-top: none;
     border-left: none;
+    border-radius: 2px;
     font-weight: bold;
-    font-size: 15px;
+    font-size: 18px;
 }
 
 .boton-trailer:hover {
