@@ -1,5 +1,4 @@
 nav{
-    text-align: right;
     background-color: aliceblue;
     color: black;
 }
@@ -13,6 +12,12 @@ nav a {
 body{
     background-color: black;
     color: aliceblue;
+}
+
+.flex-separado{
+  display: flex;
+  justify-content: space-between;
+    align-items: center;
 }
 
 .imagen-boton {
