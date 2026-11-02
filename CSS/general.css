@@ -53,9 +53,9 @@ body{
     font-size: 15px;
     color: #ffffff;
     line-height: 1.5;
-    max-width:405px;
+    max-width:450px;
     margin: 0 auto 30px auto;
-    text-align: justify;
+    text-align: left
 
 }
 
