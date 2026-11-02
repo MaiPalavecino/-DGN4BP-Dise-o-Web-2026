@@ -4,6 +4,7 @@ nav{
    justify-content: flex-start;
     background-color: aliceblue;
     padding: 15px 20px;
+    white-space: nowrap;
 
 
 }
