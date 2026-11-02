@@ -1,21 +1,21 @@
 nav{
-    display: flex;
-    justify-content: flex-end;
-    align-items: center;
     text-align: right;
     background-color: aliceblue;
-    padding: 10px 20px;
+    padding: 15px 20px;
+    white-space: nowrap;
 
 }
 
 nav a {
+
+    display: inline-block;
      margin-right: 20px;
-     margin-left: 20px;
+     margin-left: 15px;
      color: black;
      text-decoration: none;
-     font-size: 16px;
+     font-size: 14px;
     font-weight: 500;
-    padding: 10px 25px;
+    padding: 8px 15px;
     border-radius: 8px;
 
 }
