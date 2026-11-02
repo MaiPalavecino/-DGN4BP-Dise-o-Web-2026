@@ -27,7 +27,8 @@ nav a:hover {
     }
 
 .imagen-botón {
-    margin-right: 50px;
+   margin-left: 50px;
+ justify-content: left;
 }
 
 body{
