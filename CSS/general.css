@@ -134,7 +134,7 @@ Boton donde ver
     border-bottom: 2px dotted #ffffff;
     }
 
-Contenedores sobre pelicula
+/* Contenedores sobre pelicula */
 
 .contenedor-cards {
     display: flex;
