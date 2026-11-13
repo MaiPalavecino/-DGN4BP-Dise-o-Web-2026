@@ -151,6 +151,22 @@ Contenedores sobre pelicula
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4);
 }
 
+.card h2 {
+    margin-bottom: 16px;
+}
+
+.card img {
+    width: 100%;
+    height: 220px;
+    object-fit: cover;
+    border-radius: 8px;
+    margin-bottom: 16px;
+}
+
+.card p {
+    margin-bottom: 12px;
+}
+
 
 
 
