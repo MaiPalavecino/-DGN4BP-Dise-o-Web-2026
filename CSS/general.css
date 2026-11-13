@@ -169,9 +169,49 @@ body{
 
 
 
+/* ANÁLISIS */
 
 
+.contenedor-analisis {
+    max-width: 1000px;
+    margin: 0 auto 50px auto; 
+}
 
+.card-analisis {
+    background-color: rgb(10, 10, 128);
+    padding: 24px;
+    border-radius: 16px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4);
+}
+
+.card-analisis h2 {
+    margin-bottom: 20px;
+}
+
+.contenido-analisis {
+    display: flex;
+    gap: 30px;
+    align-items: center; 
+}
+
+.contenido-analisis img {
+    width: 45%;
+    border-radius: 8px;
+    object-fit: cover;
+}
+
+.texto-analisis {
+    width: 60%;
+}
+
+texto-analisis ul {
+    padding-left: 20px;
+}
+
+.texto-analisis li {
+    margin-bottom: 20px;
+    line-height: 1.5;
+}
 
 
 
