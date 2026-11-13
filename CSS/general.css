@@ -134,6 +134,20 @@ Boton donde ver
     border-bottom: 2px dotted #ffffff;
     }
 
+Contenedores sobre pelicula
+
+.contenedor-cards {
+    display: flex;
+    gap: 30px;
+    max-width: 1000px;
+    margin: 50px auto;
+}
+
+
+
+
+
+
 
 
 
