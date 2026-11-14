@@ -238,10 +238,12 @@ body{
 
 .seccion-locacion {
     background-color: rgb(10, 10, 128);
-    width: 62%;
-    margin: 40px auto;
-    padding: 36px 15px;
+    width: 64%;
+    padding: 24px;
     border-radius: 16px;
+    max-width: 1000px; 
+    margin: 40px auto;
+
 }
 
 .seccion-locacion h1 {
