@@ -750,3 +750,142 @@ li {
     text-align: left;
     margin: 0;
 }
+
+
+
+
+/* CONTACTO */
+
+.contenedor-contacto {
+    width: 55%;
+    margin: 40px auto;
+    padding: 35px 45px;
+    background-color: rgb(10, 10, 128);
+    border-radius: 15px;
+}
+
+.contenedor-contacto h1 {
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.contenedor-contacto p {
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+
+.formulario-contacto {
+    text-align: left;
+}
+
+.formulario-contacto label {
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 6px;
+    font-weight: bold;
+}
+
+.formulario-contacto input {
+    display: block;
+    width: 100%;
+    padding: 10px 14px;
+    border: 2px solid rgb(#da3c11);
+    border-radius: 8px;
+    box-sizing: border-box;
+    font-family: inherit;
+    font-size: 16px;
+}
+
+.boton-enviar {
+    display: inline-block;
+    margin-top: 25px;
+    padding: 12px 32px;
+    background-color: #ffffff;
+    color: rgb(10, 10, 128);
+    border: none;
+    border-radius: 10px;
+    font-family: inherit;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.boton-enviar:hover {
+    background-color: #1d4ed8;
+    color: #ffffff;
+}
+
+/* CONFIRMACIÓN */
+
+.fondo-negro {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.caja-confirmacion {
+    width: 85%;
+    margin: 110px auto;
+    text-align: center;
+}
+
+.caja-confirmacion h1 {
+    font-size: 105px;
+    line-height: 1.05;
+    margin-bottom: 30px;
+}
+
+.caja-confirmacion p {
+    font-family: inherit;
+    font-size: 22px;
+    line-height: 1.6;
+    margin-bottom: 45px;
+}
+
+/* Botón Volver (azul en Confirmación) */
+.boton-volver {
+    display: inline-block;
+    padding: 16px 44px;
+    background-color: rgb(10, 10, 128);
+    color: #ffffff;
+    border-radius: 12px;
+    font-family: inherit;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.boton-volver:hover {
+    background-color: #1d4ed8;
+    color: #ffffff;
+}
+
+
+
+
+
+footer {
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.enlace-red {
+    display: inline-block;
+    text-decoration: none;
+    margin: 0 6px;
+}
+
+.icono-red {
+    width: 65px;
+    height: 65px;
+    object-fit: contain;
+    transition: transform 0.3s ease;
+}
+
+.icono-red:hover {
+    transform: scale(1.15);
+}
