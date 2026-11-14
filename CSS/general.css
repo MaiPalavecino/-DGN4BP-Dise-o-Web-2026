@@ -87,6 +87,7 @@ body{
 
 .boton-trailer:hover {
     background-color: #cccccc;
+    border-radius: 20px;
 }
 
 .columna-poster {
