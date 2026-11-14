@@ -206,6 +206,7 @@ body{
 
 .texto-analisis ul {
     padding-left: 20px;
+    margin top: 0;
 }
 
 .texto-analisis li {
@@ -222,7 +223,7 @@ body{
 
 .imagenes-analisis img {
         width: 100%;
-        height: 180px;
+        height: 195px;
         object-fit: cover;
         border-radius: 8px;
     
