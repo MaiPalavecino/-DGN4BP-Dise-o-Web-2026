@@ -254,9 +254,9 @@ body{
 
 .seccion-locacion h2 {
     text-align: left;
-    font-size: 32px;
+    font-size: 24px;
     margin-top: 0px;
-    margin-bottom: 24px;
+    margin-bottom: 16px;
 
 }
 
@@ -301,16 +301,18 @@ body{
 .columna-locacion p {
     font-size: 15px;
     line-height: 1.5;
-    margin-bottom: 12px;
-    padding-left: 0px;
+    margin: 0px 0px 12px 0px;
+    padding: 0px;
+    width: 100%;
     text-align: justify;
 }
 
 
 
 .columna-locacion ul {
-    padding-left: 18px;
+    padding-left: 16px;
     margin: 0px;
+    width: 100%;
 }
 
 /* Error 404 */
