@@ -21,6 +21,8 @@ nav a:hover {
 
 
 body{
+    margin: 0;
+    padding: 0;
     background-color: black;
     color: aliceblue;
 }
