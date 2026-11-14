@@ -238,9 +238,9 @@ body{
 
 .seccion-locacion {
     background-color: rgb(10, 10, 128);
-    width: 85%;
+    width: 70%;
     margin: 40px auto;
-    padding: 36px;
+    padding: 36px 50px;
     border-radius: 16px;
 }
 
@@ -260,13 +260,14 @@ body{
 
 .contenedor-comparativa {
    width: 100%;
+   text-align: center;
 }
 
 .columna-locacion {
     display: inline-block;
     vertical-align: top;
-    width: 47%;
-    margin-right: 2%;
+    width: 45%;
+    text-align: left;
 }
 
 .columna-locacion h2 {
@@ -282,7 +283,7 @@ body{
 
 .foto-locacion img {
     width: 100%;
-    height: 210px;
+    height: auto;
     object-fit: cover;
     border-radius: 10px;
     display: block;
