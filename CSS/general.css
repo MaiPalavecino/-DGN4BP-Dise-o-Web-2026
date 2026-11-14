@@ -238,7 +238,7 @@ body{
 
 .seccion-locacion {
     background-color: rgb(10, 10, 128);
-    width: 70%;
+    width: 65%;
     margin: 40px auto;
     padding: 36px 50px;
     border-radius: 16px;
@@ -266,9 +266,8 @@ body{
 .columna-locacion {
     display: inline-block;
     vertical-align: top;
-    width: 45%;
-    text-align: left;
-    margin: 1.5%;
+    width: 47%;
+    margin: 1%;
 }
 
 .columna-locacion h2 {
@@ -290,12 +289,22 @@ body{
     display: block;
 }
 
-.columna-locacion p,
 .columna-locacion li {
     font-size: 15px;
     line-height: 1.5;
     margin-bottom: 12px;
+    text-align: justify;
 }
+
+.columna-locacion p {
+    font-size: 15px;
+    line-height: 1.5;
+    margin-bottom: 12px;
+    padding-left: 18px;
+    text-align: justify;
+}
+
+
 
 .columna-locacion ul {
     padding-left: 18px;
