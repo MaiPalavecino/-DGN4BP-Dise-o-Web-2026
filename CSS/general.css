@@ -275,7 +275,7 @@ body{
 
 .error-404 {
     text-align: center;
-    padding-top: 0;
+    padding-top: 15px;
     color: #ffffff;
 }
 
@@ -290,22 +290,22 @@ body{
     line-height: 100%;
     color: #ffffff;
     margin-top: 0;
-    margin-bottom: 6px;
+    margin-bottom: 14px;
 }
 
 .error-404 h2 {
     font-size: 32px;
     color: #ffffff;
     margin-top: 0;
-    margin-bottom: 8px;
+    margin-bottom: 16px;
 }
 
 .error-404 p {
     width: 520px;
     font-size: 16px;
-    line-height: 135%;
+    line-height: 145%;
     color: #ffffff;
-    margin: 0 auto 14px auto;
+    margin: 0 auto 24px auto;
 }
 
 .error-404 a {
@@ -325,7 +325,7 @@ body{
 .error-404 img {
     display: block;
     width: 310px;
-    margin: 0 auto 65px auto;
+    margin: 0 auto 30px auto;
 }
 
 
