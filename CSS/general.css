@@ -231,7 +231,30 @@ body{
 }
 
 
+/* LOCACIÓN */
 
+.seccion-locacion {
+    margin-top: 40px;
+}
+
+.contenedor-comparativa {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 40px;
+    margin-top: 20px;
+}
+
+.columna-locacion h2 {
+    margin-bottom: 15px;
+}
+
+.foto-locacion {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 8px;
+    margin-bottom: 15px;
+}
 
 
 
