@@ -315,6 +315,9 @@ body{
     text-align: justify;
 }
 
+
+
+
 /* MAPAS */
 
 .seccion-mapa {
@@ -322,7 +325,7 @@ body{
     color: #ffffff;
     border-radius: 16px;
     padding: 24px;
-    max-width: 950px;
+    max-width: 952px;
     box-sizing: border-box;
     margin: 40px auto;
     text-align: left;
@@ -352,7 +355,7 @@ body{
     width: 48%;
     margin-left: 1%;
     margin-right: 0px;
-    margin-top: 8px;
+    margin-top: 4px;
 }
 
 .columna-mapa ul,
