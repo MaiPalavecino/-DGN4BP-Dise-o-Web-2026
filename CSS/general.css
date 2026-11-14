@@ -326,7 +326,7 @@ body{
     width: 100%;
     box-sizing: border-box;
     margin: 40px auto;
-    text-align: center;
+    text-align: left;
 }
 
 .seccion-mapa h3 {
@@ -336,18 +336,27 @@ body{
     margin-bottom: 20px;
 }
 
+.columna-mapa {
+    display: inline-block;
+    vertical-align: top;
+    text-align: left;
+    width: 48%;
+    margin-left: 0;
+    margin-right: 2%;
+}
 
-.columna-mapa,
 .columna-mapa2 {
     display: inline-block;
     vertical-align: top;
     text-align: left;
-    width: 47%;
-    margin: 0 1%;
+    width: 48%;
+    margin-left: 1%;
+    margin-right: 0px;
 }
 
 .columna-mapa ul,
 .columna-mapa2 ul {
+    height: 50px;
     margin: 0px 0px 14px 0px;
     padding: 0px 0px 0px 18px;
     text-align: justify;
