@@ -234,7 +234,15 @@ body{
 /* LOCACIÓN */
 
 .seccion-locacion {
-    margin-top: 40px;
+    background-color: rgb(10, 10, 128);
+    width: 80%;
+    margin: 40px auto;
+    padding: 30px;
+    border-radius: 15%;
+}
+
+.seccion-locacion h1 {
+    margin-bottom: 20px;
 }
 
 .contenedor-comparativa {
