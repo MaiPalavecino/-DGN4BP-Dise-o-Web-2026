@@ -219,12 +219,12 @@ body{
     display: flex;
     flex-direction: column;
     gap: 15px;
-    margin-top: 6px;
+    margin-top: 16px;
 }
 
 .imagenes-analisis img {
         width: 100%;
-        height: 235px;
+        height: 230px;
         object-fit: cover;
         border-radius: 8px;
     
