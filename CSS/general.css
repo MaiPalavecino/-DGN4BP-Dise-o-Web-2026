@@ -492,7 +492,13 @@ body{
 }
 
 
-
+.fondo-pelicula {
+    background-image: url('../img/fondo\ azul.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
 
 
 
