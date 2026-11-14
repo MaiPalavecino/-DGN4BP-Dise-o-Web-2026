@@ -238,13 +238,14 @@ body{
 
 .seccion-locacion {
     background-color: rgb(10, 10, 128);
-    width: 65%;
+    width: 60%;
     margin: 40px auto;
     padding: 36px 50px;
     border-radius: 16px;
 }
 
 .seccion-locacion h1 {
+    text-align: center;
     font-size: 32px;
     margin-top: 0px;
     margin-bottom: 24px;
@@ -252,6 +253,7 @@ body{
 }
 
 .seccion-locacion h2 {
+    text-align: left;
     font-size: 32px;
     margin-top: 0px;
     margin-bottom: 24px;
@@ -283,7 +285,7 @@ body{
 
 .foto-locacion img {
     width: 100%;
-    height: auto;
+    height: 230px;
     object-fit: cover;
     border-radius: 10px;
     display: block;
@@ -300,7 +302,7 @@ body{
     font-size: 15px;
     line-height: 1.5;
     margin-bottom: 12px;
-    padding-left: 18px;
+    padding-left: 0px;
     text-align: justify;
 }
 
