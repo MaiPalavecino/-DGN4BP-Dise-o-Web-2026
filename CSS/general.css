@@ -240,7 +240,7 @@ body{
     background-color: rgb(10, 10, 128);
     width: 62%;
     margin: 40px auto;
-    padding: 36px 30px;
+    padding: 36px 15px;
     border-radius: 16px;
 }
 
@@ -269,8 +269,8 @@ body{
     display: inline-block;
     vertical-align: top;
     vertical-align: left;
-    width: 46%;
-    margin: 1%;
+    width: 48%;
+    margin: 0 1%;
 }
 
 .columna-locacion h2 {
@@ -309,7 +309,7 @@ body{
 
 .columna-locacion ul {
     margin: 0px 0px 12px 0px;
-    padding: 0px 0px 0px 18px;
+    padding: 0px 0px 0px 16px;
     text-align: justify;
 }
 
