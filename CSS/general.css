@@ -144,6 +144,7 @@ body{
     gap: 30px;
     max-width: 1000px;
     margin: 50px auto;
+    padding-top: 15px;
 }
 
 .card {
@@ -158,6 +159,7 @@ body{
     margin-bottom: 16px;
     text-align: center;
     font-size: 40px;    
+    margin-top: 0px;
 }
 
 .card img {
