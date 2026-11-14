@@ -256,7 +256,11 @@ body{
     margin-bottom: 15px;
 }
 
-
+.columna-locacion p,
+.columna-locacion li {
+    line-height: 1.5;
+    margin-bottom: 10px;
+}
 
 
 
