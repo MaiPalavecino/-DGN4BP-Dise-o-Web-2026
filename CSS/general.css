@@ -191,7 +191,6 @@ body{
 .contenido-analisis {
     display: flex;
     gap: 30px;
-    align-items: stretch;
 }
 
 .contenido-analisis img {
@@ -218,15 +217,13 @@ body{
     display: flex;
     flex-direction: column;
     gap: 20px;
-    }
+}
 
 .imagenes-analisis img {
         width: 100%;
-        height: 100%;
-        flex: 1;
         border-radius: 8px;
-        object-fit: cover;
-}
+        margin-bottom: 20px;
+ }
 
 
 
