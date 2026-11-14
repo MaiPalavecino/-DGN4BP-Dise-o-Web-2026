@@ -238,7 +238,7 @@ body{
 
 .seccion-locacion {
     background-color: rgb(10, 10, 128);
-    width: 60%;
+    width: 65%;
     margin: 40px auto;
     padding: 36px 30px;
     border-radius: 16px;
@@ -254,7 +254,7 @@ body{
 
 .seccion-locacion h2 {
     text-align: left;
-    font-size: 26px;
+    font-size: 28px;
     margin-top: 0px;
     margin-bottom: 16px;
 
