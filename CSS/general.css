@@ -3,6 +3,7 @@ html {
 }
 
 
+
 nav{
     background-color: aliceblue;
     color: black;
@@ -16,7 +17,9 @@ nav a {
     font-weight: 500;
     padding: 10px 20px;
     border-radius: 8px;
-
+    font-family: 'Anton', sans-serif;
+    font-size: 18px;
+    
 }
 
 nav a:hover {
@@ -24,6 +27,11 @@ nav a:hover {
     color: #ffffff;
     }
 
+.titulo-coraline {
+    text-align: center;
+    font-size: 70px;
+    margin: 20px 0;
+}
 
 body{
     margin: 0;
