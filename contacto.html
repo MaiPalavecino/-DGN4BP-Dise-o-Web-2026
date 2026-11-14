@@ -31,24 +31,35 @@
     </header>
 
 
-    <main>
+
 
 <form action="confirmacion.html"></form>
 
-     <label for="usuario">Ingrese su usuario:</label>
-     <input type="text" name="usuario" id="usuario">
-     <label for="">
-        Ingrese su contraseña
-       <input type="text" placeholder="Minimo 6 caracteres" name="usuario" id="contra">
-     </label>
-     <label for="">
-        <input type="password" name="" id="">
-     </label>
-     <input type="submit" value="CARGAR">
-     <button type="submit">ENVIAR</button>
+  <section class="contenedor-contacto">
+    <h1>Contacto</h1>
+    <p>Completá tus datos y dejanos tu consulta o comentario sobre Coraline.</p>
+
+    <form action="confirmacion.html" class="formulario-contacto">
+        <label for="nombre">Nombre:</label>
+        <input type="text" id="nombre" name="nombre" placeholder="Escribí tu nombre" required>
+
+        <label for="apellido">Apellido:</label>
+        <input type="text" id="apellido" name="apellido" placeholder="Escribí tu apellido" required>
+
+        <label for="correo">Correo electrónico:</label>
+        <input type="email" id="correo" name="correo" placeholder="estebanquito@gmail.com" required>
+
+        <label for="contra">Contraseña:</label>
+        <input type="password" id="contra" name="contra" minlength="6" placeholder="Mínimo 6 caracteres" required>
+
+        <label for="mensaje">Mensaje:</label>
+        <input type="text" id="mensaje" name="mensaje" placeholder="Escribí tu mensaje acá..." required>
+
+        <button type="submit" class="boton-enviar">ENVIAR</button>
+    </form>
+</section>
 
 
-</main>
 
     <footer class="nota-footer">
 
