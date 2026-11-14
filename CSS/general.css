@@ -491,14 +491,6 @@ body{
     margin-bottom: 12px;
 }
 
-.fondo-pelicula-home ¨{
-    background-image: url('../img/fondo\ home.jpg');
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
-    background-attachment: fixed;
-
-}
 
 
 .fondo-pelicula {
