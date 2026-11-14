@@ -273,6 +273,57 @@ body{
 
 /* Error 404 */
 
+.error-404 {
+    text-align: center;
+    padding-top: 60px;
+    color: #ffffff;
+}
+
+.error-404 article {
+    width: 90%;
+    max-width: 650px;
+    margin: 0 auto;
+}
+
+.error-404 h1 {
+    font-size: 128px;
+    font-weight: bold;
+    line-height: 100%;
+    color: #ffffff;
+    margin-bottom: 15px;
+}
+
+.error-404 p {
+    font-size: 18px;
+    line-height: 150%;
+    color: #ffffff;
+    margin-bottom: 30px;
+}
+
+.error-404 a {
+    display: inline-block;
+    padding: 14px 28px;
+    background-color: rgb(10, 10, 128);
+    color: #ffffff;            
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.error-404 a:hover {
+    background-color: #1d4ed8;
+}
+
+.error-404 img {
+    display: block;
+    width: 600px;
+    margin: -22px auto 0 auto;
+}
+
+
+
+
+
 h1,h2,h3  {
   font-family: "Anton", sans-serif;
   font-weight: 400;
