@@ -421,9 +421,9 @@ body{
 .columna-img-lideres {
     display: inline-block;
     vertical-align: top;
-    width: 19%;
+    width: 17%;
     margin-right: 2%;
-    margin-top: 22px;
+    margin-top: 27px;
     margin-bottom: 28px;
 }
 
@@ -436,7 +436,7 @@ body{
 .columna-texto-lideres {
     display: inline-block;
     vertical-align: top;
-    width: 77%;
+    width: 79%;
     margin-bottom: 28px;
 }
 
