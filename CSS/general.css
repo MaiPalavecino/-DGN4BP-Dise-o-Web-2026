@@ -275,7 +275,7 @@ body{
 
 .error-404 {
     text-align: center;
-    padding-top: 60px;
+    padding-top: 15px;
     color: #ffffff;
 }
 
@@ -290,7 +290,8 @@ body{
     font-weight: bold;
     line-height: 100%;
     color: #ffffff;
-    margin-bottom: 15px;
+    margin-top: 0;
+    margin-bottom: 10px;
 }
 
 .error-404 h2 {
