@@ -492,7 +492,7 @@ body{
 }
 
 .fondo-pelicula-home ¨{
- background-image: url('../img/fondo\ home.jpg');
+    background-image: url('../img/fondo\ home.jpg');
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
