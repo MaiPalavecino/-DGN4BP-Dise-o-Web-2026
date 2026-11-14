@@ -189,6 +189,7 @@ body{
     padding: 24px;
     border-radius: 16px;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4);
+    padding-top: 15px;
 }
 
 
@@ -196,6 +197,7 @@ body{
     margin-bottom: 20px;
     text-align: center;
     font-size: 40px;
+    margin-top: 0px;
 }
 
 .contenido-analisis {
