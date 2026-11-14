@@ -196,7 +196,6 @@ body{
 
 .contenido-analisis img {
     width: 100%;
-    flex: 1;
     border-radius: 8px;
     object-fit: cover;
 }
@@ -223,6 +222,8 @@ texto-analisis ul {
 
     .imagenes-analisis img {
         width: 100%;
+        height: 100%;
+        flex: 1;
         border-radius: 8px;
         object-fit: cover;
 }
