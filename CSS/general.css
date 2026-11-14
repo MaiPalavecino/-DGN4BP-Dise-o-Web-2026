@@ -201,7 +201,7 @@ body{
 }
 
 .texto-analisis {
-    width: 60%;
+    width: 55%;
 }
 
 texto-analisis ul {
@@ -209,7 +209,7 @@ texto-analisis ul {
 }
 
 .texto-analisis li {
-    margin-bottom: 20px;
+    margin-bottom: 16px;
     line-height: 1.5;
 }
 
