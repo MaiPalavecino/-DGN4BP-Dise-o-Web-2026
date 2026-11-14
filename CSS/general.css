@@ -191,11 +191,12 @@ body{
 .contenido-analisis {
     display: flex;
     gap: 30px;
-    align-items: center; 
+    align-items: stretch;
 }
 
 .contenido-analisis img {
-    width: 45%;
+    width: 100%;
+    flex: 1;
     border-radius: 8px;
     object-fit: cover;
 }
