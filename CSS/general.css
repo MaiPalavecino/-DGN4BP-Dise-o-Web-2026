@@ -240,21 +240,21 @@ body{
     background-color: rgb(10, 10, 128);
     width: 60%;
     margin: 40px auto;
-    padding: 36px 50px;
+    padding: 36px 30px;
     border-radius: 16px;
 }
 
 .seccion-locacion h1 {
     text-align: center;
-    font-size: 32px;
+    font-size: 40px;
     margin-top: 0px;
-    margin-bottom: 24px;
+    margin-bottom: 30px;
 
 }
 
 .seccion-locacion h2 {
     text-align: left;
-    font-size: 24px;
+    font-size: 26px;
     margin-top: 0px;
     margin-bottom: 16px;
 
@@ -268,8 +268,9 @@ body{
 .columna-locacion {
     display: inline-block;
     vertical-align: top;
+    vertical-align: left;
     width: 47%;
-    margin: 1%;
+    margin: 1.5%;
 }
 
 .columna-locacion h2 {
@@ -303,16 +304,13 @@ body{
     line-height: 1.5;
     margin: 0px 0px 12px 0px;
     padding: 0px;
-    width: 100%;
     text-align: justify;
 }
 
-
-
 .columna-locacion ul {
-    padding-left: 16px;
-    margin: 0px;
-    width: 100%;
+    margin: 0px 0px 12px 0px;
+    padding: 0px 0px 0px 18px;
+    text-align: justify;
 }
 
 /* Error 404 */
