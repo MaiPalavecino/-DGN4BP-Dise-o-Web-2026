@@ -1,3 +1,8 @@
+html {
+    scroll-behavior: smooth;
+}
+
+
 nav{
     background-color: aliceblue;
     color: black;
