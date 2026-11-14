@@ -392,6 +392,104 @@ body{
 
 
 
+/* PRODUCCIÓN */
+
+.seccion-produccion {
+    background-color: rgb(10, 10, 128);
+    color: #ffffff;
+    border-radius: 16px;
+    padding: 24px;
+    width: 80%;
+    margin: 40px auto;
+    text-align: left;
+}
+
+.seccion-produccion h1 {
+    text-align: center;
+    font-size: 28px;
+    margin-top: 0px;
+    margin-bottom: 24px;
+}
+
+.seccion-produccion h2 {
+    text-align: left;
+    font-size: 22px;
+    margin-top: 10px;
+    margin-bottom: 16px;
+}
+
+.columna-img-lideres {
+    display: inline-block;
+    vertical-align: top;
+    width: 26%;
+    margin-right: 2%;
+    margin-bottom: 28px;
+}
+
+.columna-img-lideres img {
+    width: 100%;
+    border-radius: 10px;
+    display: block;
+}
+
+.columna-texto-lideres {
+    display: inline-block;
+    vertical-align: top;
+    width: 70%;
+    margin-bottom: 28px;
+}
+
+.columna-img-innovaciones {
+    display: inline-block;
+    vertical-align: top;
+    width: 38%;
+    margin-right: 2%;
+}
+
+.img-3d-izq {
+    display: inline-block;
+    vertical-align: top;
+    width: 48.5%;
+    margin-right: 1%;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+
+.img-3d-der {
+    display: inline-block;
+    vertical-align: top;
+    width: 48.5%;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+.img-marioneta {
+    display: block;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.columna-texto-innovaciones {
+    display: inline-block;
+    vertical-align: top;
+    width: 58%;
+}
+
+.seccion-produccion ul {
+    margin: 0px;
+    padding: 0px 0px 0px 20px;
+    text-align: justify;
+}
+
+.seccion-produccion li {
+    font-size: 15px;
+    line-height: 1.5;
+    margin-bottom: 12px;
+}
+
+
+
 
 
 
