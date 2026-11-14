@@ -24,6 +24,14 @@ margin-bottom: 30px;
 margin-left: 70px;
 margin-right: 70px;
 
+.fondo-pelicula {
+    background-image: url('../img/fondo\ tunel.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
 
 }
 main{
