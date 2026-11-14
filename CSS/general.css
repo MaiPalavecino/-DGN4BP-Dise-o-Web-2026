@@ -87,7 +87,7 @@ body{
 }
 
 .boton-trailer:hover {
-    background-color: #1d4ed8;;
+    background-color: #1d4ed8;
     color: #ffffff;
     border-radius: 20px;
 }
@@ -126,8 +126,8 @@ body{
 
 
 .enlace-donde-ver:hover {
-    color: #cccccc;
-    border-bottom-color: #cccccc;
+    color: #f5f0f0;
+    border-bottom-color: #1d4ed8;
 }
 
 .linea-punteada {
