@@ -399,7 +399,7 @@ body{
     color: #ffffff;
     border-radius: 16px;
     padding: 24px;
-    width: 67%;
+    width: 63%;
     margin: 40px auto;
     text-align: left;
 }
@@ -442,7 +442,7 @@ body{
 .columna-img-innovaciones {
     display: inline-block;
     vertical-align: top;
-    width: 27%;
+    width: 43%;
     margin-right: 2%;
 }
 
@@ -450,8 +450,9 @@ body{
     display: inline-block;
     vertical-align: top;
     width: 48.5%;
+    margin-top: 4px;
     margin-right: 1%;
-    margin-bottom: 8px;
+    margin-bottom: 12px;
     border-radius: 10px;
 }
 
@@ -460,7 +461,8 @@ body{
     display: inline-block;
     vertical-align: top;
     width: 48.5%;
-    margin-bottom: 8px;
+    margin-top: 4px;
+    margin-bottom: 12px;
     border-radius: 10px;
 }
 
@@ -473,7 +475,7 @@ body{
 .columna-texto-innovaciones {
     display: inline-block;
     vertical-align: top;
-    width: 60%;
+    width: 53%;
 }
 
 .seccion-produccion ul {
